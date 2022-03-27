@@ -1,0 +1,10 @@
+User side
+
+1. Remove share on social media icons from blog page.
+2. After clicking on comment button with empty data, the comment area disapper and user needs to refresh before accessing it again.
+3. Date and time not correct under comment and reply.
+4. Username should be removed under comment, since full name is there.
+5. What is the uses of the tag cloud?
+6. Story features aren't included.
+7. Remove the team menu, our team on index page and contact us menu.
+8. Filter by category and location not included
